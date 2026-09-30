@@ -20,7 +20,7 @@
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![SQL](https://shields.io) ![Scala](https://shields.io) |
+| **Languages** | ![Python]([https://shields.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGKexGVUPbU3mWVfcXNH95AaKGlKBuPeMWLRocsSHXQ&s)) ![SQL](https://shields.io) ![Scala](https://shields.io) |
 | **Big Data & Processing** | ![Apache Spark](https://shields.io) ![Apache Kafka](https://shields.io) ![Airflow](https://shields.io) |
 | **Cloud & Warehousing** | ![AWS](https://shields.io) ![Snowflake](https://shields.io) ![PostgreSQL](https://shields.io) |
 | **DevOps & Version Control**| ![Docker](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io) |
