@@ -19,11 +19,11 @@
 ### 🛠️ Tech Stack & Skills
 
 | Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGKexGVUPbU3mWVfcXNH95AaKGlKBuPeMWLRocsSHXQ&s" height="25"> <img src = "[https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoik8z0FvqMEqzieLyY-e0p_Vl6SpM9x-NRDFhk4TGYwrrvrjQ6TloDA&s](https://cdn-icons-png.flaticon.com/128/5815/5815809.png)" height = "25">|
-| **Big Data & Processing** | ![Apache Spark](https://shields.io) ![Apache Kafka](https://shields.io) ![Airflow](https://shields.io) |
-| **Cloud & Warehousing** | ![AWS](https://shields.io) ![Snowflake](https://shields.io) ![PostgreSQL](https://shields.io) |
-| **DevOps & Version Control**| ![Docker](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io) |
+|----------|----------------------|
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> |
+| **Big Data & Processing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45"/> |
+| **Cloud & Warehousing** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> |
+| **DevOps & Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> |
 
 ---
 
