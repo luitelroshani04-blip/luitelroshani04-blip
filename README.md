@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Roshani Luitel👋</h1>
 <h3 align="center">Aspiring Data Engineer | Building Robust Data Pipelines & Architecture</h3>
 
-# 🚀 Aspiring Data Engineer | Building Robust Data Pipelines & Architecture
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luitelroshani04-blip&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
