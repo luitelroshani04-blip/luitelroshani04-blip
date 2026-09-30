@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Roshani Luitel👋</h1>
 <h3 align="center">Aspiring Data Engineer | Building Robust Data Pipelines & Architecture</h3>
 
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Badge"/></a>
+  <a href="www.linkedin.com/in/luitel-roshani-43958b178"></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 * 🌱 I’m currently sharpening my skills in **Distributed Systems and Cloud Data Warehousing**.
 * 💡 Passionate about building scalable ETL/ELT pipelines, optimizing SQL queries, and turning chaotic datasets into clean, analytics-ready models.
 * 👯 Open to collaborating on data engineering projects, open-source data tools, or backend data services.
-* 📬 Reach me at: `your.email@example.com`
+* 📬 Reach me at: `luitelroshani04@gmail.com`
 
 ---
 
