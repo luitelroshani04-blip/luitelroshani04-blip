@@ -20,7 +20,7 @@
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGKexGVUPbU3mWVfcXNH95AaKGlKBuPeMWLRocsSHXQ&s" height="25"> <img src = "https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp" height = "25"|
+| **Languages** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGKexGVUPbU3mWVfcXNH95AaKGlKBuPeMWLRocsSHXQ&s" height="25"> <img src = "https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp" height = "25">|
 | **Big Data & Processing** | ![Apache Spark](https://shields.io) ![Apache Kafka](https://shields.io) ![Airflow](https://shields.io) |
 | **Cloud & Warehousing** | ![AWS](https://shields.io) ![Snowflake](https://shields.io) ![PostgreSQL](https://shields.io) |
 | **DevOps & Version Control**| ![Docker](https://shields.io) ![Git](https://shields.io) ![Linux](https://shields.io) |
