@@ -27,7 +27,8 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luitelroshani04-blip&show_icons=true&theme=tokyonight" />
 </p>
